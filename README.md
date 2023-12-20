@@ -2,7 +2,7 @@
 
 Welcome to the Portfolio Web Page repository! This project serves as a showcase for my skills, projects, and achievements. Whether you're a developer, designer, or any professional looking to establish an online presence, this portfolio template provides a clean and customizable solution.
 
-Features:
+# Features:
 
 Responsive Design: Your portfolio will look great on devices of all sizes.
 Customizable Sections: Easily add, remove, or modify sections to showcase your unique skills and experiences.
