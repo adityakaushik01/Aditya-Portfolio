@@ -1,3 +1,11 @@
 # Aditya-Kaushik-Portfolio
 
-Insert images and other documents according to your requirement. It requires basic knowledge of HTML to perform changes. 
+Welcome to the Portfolio Web Page repository! This project serves as a showcase for my skills, projects, and achievements. Whether you're a developer, designer, or any professional looking to establish an online presence, this portfolio template provides a clean and customizable solution.
+
+Features:
+
+Responsive Design: Your portfolio will look great on devices of all sizes.
+Customizable Sections: Easily add, remove, or modify sections to showcase your unique skills and experiences.
+Project Showcase: Highlight your projects with details like images, descriptions, and links.
+Contact Form: Allow visitors to reach out to you directly through the integrated contact form.
+Social Media Integration: Link your social media profiles to provide easy access to your professional networks.
