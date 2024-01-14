@@ -11,5 +11,4 @@ Contact Form: Allow visitors to reach out to you directly through the integrated
 Social Media Integration: Link your social media profiles to provide easy access to your professional networks.
 
 
-You can check the portfolio here - <button class="button-36" href="https://adityakaushik01.github.io/Aditya-Portfolio/" role="button">Live Code</button>
-
+You can check the portfolio here - https://adityakaushik01.github.io/Aditya-Portfolio/
