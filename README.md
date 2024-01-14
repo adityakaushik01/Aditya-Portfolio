@@ -1,4 +1,4 @@
-# Aditya-Kaushik-Portfolio
+# Aditya-Portfolio
 
 Welcome to the Portfolio Web Page repository! This project serves as a showcase for my skills, projects, and achievements. Whether you're a developer, designer, or any professional looking to establish an online presence, this portfolio template provides a clean and customizable solution.
 
