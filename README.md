@@ -11,12 +11,13 @@ Contact Form: Allow visitors to reach out to you directly through the integrated
 Social Media Integration: Link your social media profiles to provide easy access to your professional networks.
 
 
-You can check the portfolio here - <a href="https://adityakaushik01.github.io/Aditya-Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Live%20Code!-176B87?style=for-the-badge&logoColor=white&link=https%3A%2F%2Fadityakaushik01.github.io%2FAditya-Portfolio%2F"></a>
+You can check the portfolio here - <a href="https://adityakaushik01.github.io/Aditya-Portfolio/" target="_blank" style="align-items:center; justify-content:space-around;"><img src="https://img.shields.io/badge/Live%20Code!-176B87?style=for-the-badge&logoColor=white&link=https%3A%2F%2Fadityakaushik01.github.io%2FAditya-Portfolio%2F"></a>
 
 
 
 # Languages Used:
-
+<div style="display:flex;">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+</div>
